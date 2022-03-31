@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm <a href="https://vk.com/erlax_official" target="_blank">Theodor</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python Labs
+<h3 align="left">Python Labs
 <img src="https://i.imgur.com/V81UQgt.png" height="32"/></h3>
 
 
